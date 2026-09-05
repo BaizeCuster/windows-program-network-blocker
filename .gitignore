@@ -1,0 +1,12 @@
+# Build and editor artifacts
+*.pdb
+*.user
+*.suo
+.vs/
+bin/
+obj/
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+
